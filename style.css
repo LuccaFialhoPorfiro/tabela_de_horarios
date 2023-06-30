@@ -1,0 +1,105 @@
+*{
+    border-collapse: collapse;
+}
+
+table{
+    border: solid black 4px;
+}
+
+td{
+    width: 100px;
+    height: 40px;
+    border: solid 2px black;
+    text-align: center;
+}
+
+.dias{
+    background-color: lightsalmon;
+}
+
+.horários{
+    background-color: white;
+}
+
+.artes{
+    background-color: pink;
+}
+
+.física{
+    background-color: orange;
+}
+
+.biologia{
+    background-color: orange;
+}
+
+.química{
+    background-color: orange;
+}
+
+.técnico{
+    background-color: purple;
+}
+
+.geosoc{
+    background-color: gray;
+}
+
+.filosofia{
+    background-color: gray;
+}
+
+.história{
+    background-color: gray;
+}
+
+.livre{
+    text-align: center;
+}
+
+.intervalo{
+    background-color: gray;
+    text-align: center;
+}
+
+.pp{
+    background-color: red;
+}
+
+.matemática{
+    background-color: yellow;
+}
+
+.português{
+    background-color: pink;
+}
+
+.pv{
+    background-color: green;
+}
+
+.inglês{
+    background-color: pink;
+}
+
+.ef{
+    background-color: pink;
+}
+
+.turma {
+  writing-mode: vertical-rl;
+  text-align: center;
+  text-orientation: mixed;
+  border: solid black 4px;
+  font-size: 150%;
+  padding: 0;
+}
+
+.vazio{
+    border: 0;
+}
+
+.grupo{
+    text-align: center;
+    border: 0;
+}
